@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # installing and config nginx
 
 apt-get update
